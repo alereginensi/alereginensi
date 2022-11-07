@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Reginensi</h1>
-<h3 align="center">I'm a Full stack developer graduated from Holberton School</h3>
+<h3 align="center">I'm a Full Stack Developer graduated from Holberton School</h3>
 
 <div align="center">
 
