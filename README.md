@@ -56,9 +56,6 @@
 
 ------
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alereginensi&theme=gruvbox&hide_border=true&area=true)
-
-------
 Credit: [alereginensi](https://github.com/alereginensi)
 
 Last Edited on: 13/02/2025
