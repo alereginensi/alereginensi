@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Age](https://img.shields.io/badge/age-25-orange?style=for-the-badge)
+![Age](https://img.shields.io/badge/age-26-orange?style=for-the-badge)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falereginensi%2F&label=Profile%20views&labelColor=%23d9e3f0&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falereginensi%2F)
 
 </div>
@@ -43,19 +43,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
- 
-<h2 align="center"> :bar_chart: GitHub stats </h2>
- <br />
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=alereginensi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="alereginensi" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alereginensi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="alereginensi" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=alereginensi&theme=darcula&hide_border=true&background=FFFFFF00" alt="alereginensi" />
- <br />
- <br />
-</p>
 
 ------
 
 Credit: [alereginensi](https://github.com/alereginensi)
 
-Last Edited on: 13/02/2025
+Last Edited on: 19/01/2026
